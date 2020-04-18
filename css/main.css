@@ -3,17 +3,16 @@ html {
 }
 
 .wrapper {
-  margin: 0;
   width: 100%;
 }
 
 h1 {
-  width: 1400px;
+  width: 1380px;
 }
 
 table {
   border: 1px solid #ccc;
-  width: 1400px;
+  width: 1380px;
 }
 
 th {
@@ -22,7 +21,7 @@ th {
 }
 
 td {
-  height: 190px;
+  height: 185px;
   border: 1px solid #ccc;
 }
 
