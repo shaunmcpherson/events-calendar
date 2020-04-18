@@ -2,12 +2,19 @@ html {
   font-family: Merriweather, serif;
 }
 
-main {
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  margin: 0;
   width: 100%;
 }
 
 table {
   border: 1px solid #ccc;
+  width: 1400px;
 }
 
 th {
@@ -16,31 +23,31 @@ th {
 }
 
 td {
-  height: 200px;
+  height: 190px;
   border: 1px solid #ccc;
 }
 
 .event {
-  color: #666;
+  color: #333;
   background: #f2f2f2;
-  border: 1px solid #333;
+  border: 1px solid #666;
   border-radius: 8px;
 }
 
 .red {
-  color: #b92828;
+  color: #991919;
   background-color: #f2bcbc;
-  border-color: #991919;
+  border-color: #b92828;
 }
 
 .green {
-  color: #6b7e54;
+  color: #51603f;
   background-color: #d1e0bf;
-  border-color: #51603f;
+  border-color: #6b7e54;
 }
 
 .blue {
-  color: #1d38da;
+  color: #38448e;
   background-color: #d2d6f0;
-  border-color: #38448e;
+  border-color: #1d38da;
 }
