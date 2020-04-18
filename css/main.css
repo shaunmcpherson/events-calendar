@@ -1,9 +1,10 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 }
 
 table {
   border: 1px solid #ccc;
+  width: 100%
 }
 
 th {
@@ -12,7 +13,7 @@ th {
 }
 
 td {
-  height: 100px;
+  height: 150px;
   border: 1px solid #ccc;
 }
 
